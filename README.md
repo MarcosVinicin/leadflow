@@ -32,8 +32,8 @@ Mini-CRM de leads: os contatos entram por formulário ou webhook, são organizad
 ## Roadmap
 
 - [x] Ambiente: Node, Git e PostgreSQL rodando em container
-- [ ] Repositório e estrutura inicial
-- [ ] Servidor Express e rota `/health`
+- [x] Repositório e estrutura inicial
+- [x] Servidor Express e rota `/health`
 - [ ] Modelagem do banco e criação das tabelas
 - [ ] CRUD de leads
 - [ ] Validação e tratamento de erros
